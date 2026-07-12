@@ -22,7 +22,7 @@ Cursor : Breeze Light
 # safer to work in the tmp directory
 cd /tmp
 
-wget https://raw.githubusercontent.com/hunixcode/icedcoffee/master/assets/wallpaper.png -o _tmp_wallpaper.png
+curl https://raw.githubusercontent.com/hunixcode/kde-monochrome-rice/main/assets/wallpaper.png --output _tmp_wallpaper.png
 sudo mv _tmp_wallpaper.png /usr/share/wallpapers/kde-gojo-wallpaper.png
 ```
 
