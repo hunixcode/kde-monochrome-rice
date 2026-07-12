@@ -8,13 +8,19 @@
 
 # Theme Configuration
 
-Global Theme : Kubuntu Dark or Breeze Dark
-Colors : Breeze Dark
-App Style : Breeze
-Plasma Style : Kubuntu Dark
-Window Decoration : Breeze ( play with the theme's color palette to get a pure dark & white look )
-Icons : Yet Another Monochrome Icon Set
-Cursor : Breeze Light
+Global Theme : Kubuntu Dark or Breeze Dark 
+
+Colors : Breeze Dark 
+
+App Style : Breeze 
+
+Plasma Style : Kubuntu Dark 
+
+Window Decoration : Breeze ( play with the theme's color palette to get a pure dark & white look ) 
+
+Icons : Yet Another Monochrome Icon Set 
+
+Cursor : Breeze Light 
 
 ## Quick Wallpaper Install (copy + paste)
 
